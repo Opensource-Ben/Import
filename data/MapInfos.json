@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Field Map","order":1,"parentId":0,"scrollX":808,"scrollY":733},
+{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":0,"scrollX":948,"scrollY":1447.3333333333333},
+{"id":3,"expanded":false,"name":"Stone Cave","order":4,"parentId":0,"scrollX":896,"scrollY":1034},
+{"id":4,"expanded":false,"name":"Auberge RDC","order":3,"parentId":2,"scrollX":601.3333333333334,"scrollY":543.3333333333334}
+]
